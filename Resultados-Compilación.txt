@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 10:53...
+1>------ Operación Compilar iniciada: Proyecto: PROYECTOWEBTickets2, configuración: Debug Any CPU ------
+1>  PROYECTOWEBTickets2 -> C:\Users\mayra\OneDrive\PROGRAMACIONWEB4\PROYECTOWEBTickets2\PROYECTOWEBTickets2\bin\PROYECTOWEBTickets2.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 10:53 y tardó 00,827 segundos ==========
